@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    background: rgb(0,0,0);
+background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(106,106,106,1) 30%, rgba(166,166,166,1) 100%);
+}
+
+.oneN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:brown;
+}
+
+#one{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.oneP{
+    border: 2px solid rgb(124, 26, 26);
+    height: 300px;
+    width: 400px;
+}
+
+#Size{
+    height: 20px;
+    width: 60px;
+}
+
+#onePr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(105, 27, 27);
+}
+
+.twoN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(68, 68, 68);
+}
+
+.twoP{
+    border: 2px solid rgb(61, 61, 61);
+    height: 300px;
+    width: 400px;
+}
+
+#twoPr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(196, 196, 196);
+}
+
+#two{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.threeN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(173, 30, 30);
+}
+
+.threeP{
+    border: 2px solid rgb(87, 59, 34);
+    height: 300px;
+    width: 400px;
+}
+
+#threePr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(46, 46, 46);
+}
+
+#three{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.fourN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(85, 85, 85);
+}
+
+.fourP{
+    border: 2px solid rgb(0, 247, 255);
+    height: 300px;
+    width: 450px;
+}
+
+#fourPr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(62, 172, 187);
+}
+
+#four{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.fiveN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(203, 206, 28);
+}
+
+.fiveP{
+    border: 2px solid rgb(255, 230, 0);
+    height: 350px;
+    width: 550px;
+}
+
+#fivePr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(0, 0, 0);
+}
+
+#five{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.sixN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(255, 255, 255);
+}
+
+.sixP{
+    border: 2px solid rgb(255, 237, 73);
+    height: 350px;
+    width: 550px;
+}
+
+#sixPr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(238, 250, 68);
+}
+
+#six{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.sevenN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:rgb(36, 88, 167);
+}
+
+.sevenP{
+    border: 2px solid rgb(34, 103, 168);
+    height: 350px;
+    width: 550px;
+}
+
+#sevenPr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(46, 104, 190);
+}
+
+#seven{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.eightN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(221, 0, 0);
+}
+
+.eightP{
+    border: 2px solid rgb(255, 0, 0);
+    height: 350px;
+    width: 550px;
+}
+
+#eightPr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(0, 0, 0);
+}
+
+#eight{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.nineN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color: rgb(221, 0, 0);
+}
+
+.nineP{
+    border: 2px solid rgb(255, 0, 0);
+    height: 400px;
+    width: 600px;
+}
+
+.nineP1{
+    border: 2px solid rgb(255, 0, 0);
+    height: 400px;
+    width: 650px;
+}
+
+#ninePr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:rgb(0, 0, 0);
+}
+
+#nine{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
+
+.tenN{
+    font-size: xx-large;
+    font-family: 'Lobster', cursive;
+    color:gold;
+}
+
+.tenP{
+    border: 2px solid gold;
+    height: 350px;
+    width: 550px;
+}
+
+#tenPr{
+    font-size: xx-large;
+    font-family: cursive;
+    color:gold;
+}
+
+#ten{
+    font-size: large;
+    font-family: cursive;
+    color: black;
+}
